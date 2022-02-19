@@ -1,0 +1,249 @@
+#pushHeader{
+    background-image: url('../img/Push2Max55.jpg');
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar-nav li a{
+    float: right;
+    color: #fff!important;
+}
+
+.navbar-brand img{
+    width: 150px;
+    margin-left: 30px;
+}
+
+.navbar-toggler{
+    border : none!important;
+    outline: none!important;
+}
+
+.nav .fa_bars{
+    color: #fff;
+    font-size: 26px;
+}
+/* -------------Welcome----------- */
+.welcome{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 50px 100px;
+    margin-top: -140px;
+    background-color: #fff;
+    box-shadow: 0 0 20px 7px rgb(0, 0,0,0.2);
+}
+
+.welcome h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #333;
+    font-style: bold;
+}
+/* -------------ABOUT US----------- */
+#about{
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+#about .col-md-6{
+    padding: 20px 10px;
+}
+
+#about h3{
+    padding: 20px auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#about p{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: justify;
+}
+
+#about .img-fluid{
+    margin-top: 20px 80px;
+    width: 300px;
+    height: auto;
+}
+
+
+/* --------------SERVICES------------------ */
+#services{
+    background-color: #efefef;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#services .col-md-4{
+   padding: 20px;
+}
+
+#services .col-md-4 h4{
+    padding: 5px;
+    text-align: center;
+    font-weight: bolder;
+ }
+ #services .col-md-4 img{
+    width: 50px;
+    margin-left: 180px;
+    
+ }
+
+ #services .col-md-4 p{
+    padding: 5px;
+    text-align: justify;
+ }
+
+ #features .img-fluid{
+     width: auto;
+ }
+
+ #features{
+     padding-top: 100px;
+     padding-bottom: 100px;
+     background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url('../img/pexels-photo-791763.jpeg');
+     background-position: center;
+     background-size: cover;
+     background-attachment: fixed;
+     color: #fff;
+ }
+
+ #features .col-md-6{
+     padding: 20px  ;
+ }
+
+ .feature-box
+ {
+     height: 120px;
+ }
+ .feature-box .feature-left{
+     height: 120px;
+     width: 20%;
+     float: left;
+ }
+
+ .feature-box .feature-left .fa{
+     padding-top: 13px;
+     font-size: 40px;
+ }
+
+ .feature-box .feature-right{
+    height: 120px;
+    width: 80%;
+    float: left;
+}
+
+.feature-box .feature-right h4{
+  padding-top: 10px;
+  padding-left: 15px;
+  text-align: left;
+}
+.feature-box .feature-right p{   
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 15px;
+    text-align: left;
+  }
+
+#testinomials{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#testinomials .col-md-4{
+    padding: 10px 30px;
+}
+
+#testinomials img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-left: -30px;
+    margin-top: -40px;
+    border: 5px solid #fff;
+    margin-bottom: 30px;
+}
+
+.review{
+    font-size: 16px;
+    padding: 10px 10px 10px 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 1px rgba(0, 0,0,0.2);
+}
+
+.review .fa-twitter{
+    color: #013f7e;
+}
+
+#testinomials span{
+    margin-left: 225px;
+    color: #013f7e;
+    font-weight: 600;
+    font-size: 12px;       
+}
+
+#testinomials h1{
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+    color: #013f7e ;
+}
+#testinomials p{
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 20px;
+    text-align: left;
+}
+
+#testinomials .middle{
+    margin-bottom: 20px;
+    margin-top: -30px;
+
+}
+
+#footer{
+    margin-top: -80px;
+    padding: 50px;
+    background-color: #efefef;
+    color: #013f7e;
+}
+
+#footer h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#footer p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: left;   
+}
+#footer .city{
+    margin-left: 37px;
+}
+
+#footer .row .fa{
+    padding-right: 20px;
+    font-size: 15px;
+}
+
+#footer .row a{
+   text-decoration-line: none;
+}
+
+#footer hr{
+    margin-top: 10px;
+}
+
+#footer .fa-heart-o{
+    color: red;
+    font-size: 17px;
+}
+
+#footer .copyright{
+    margin-bottom: -80px;
+    text-align: center;
+    font-size: 15px;
+}
